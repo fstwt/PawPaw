@@ -113,8 +113,8 @@ fi
 # ---------------------------------------------------------------------------------------------------------------------
 # jack-example-tools
 
-JACK_EXAMPLE_TOOLS_VERSION="7cf014d3b3b75ad88a0785957b0f2cffad243b6b"
-JACK_EXAMPLE_TOOLS_URL="https://github.com/jackaudio/jack-example-tools.git"
+JACK_EXAMPLE_TOOLS_VERSION="84185f6329ac462bd05c66ef9e54eb8d4c5970cc"
+JACK_EXAMPLE_TOOLS_URL="https://github.com/fstwt/jack-example-tools.git"
 
 JACK_EXAMPLE_TOOLS_EXTRAFLAGS=""
 JACK_EXAMPLE_TOOLS_EXTRAFLAGS+=" -Dalsa_in_out=disabled"
